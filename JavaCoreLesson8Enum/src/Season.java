@@ -1,4 +1,3 @@
-
 public enum Season {
-	WINTER, SPRING, SUMMER, AUTUMN 
+	WINTER, SPRING, SUMMER, AUTUMN
 }

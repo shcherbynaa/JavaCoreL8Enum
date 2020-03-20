@@ -1,4 +1,3 @@
-
 public enum Month {
 	JANUARY(31, Season.WINTER), 
 	FEBRUARY(28, Season.WINTER), 
